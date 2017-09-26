@@ -1,9 +1,8 @@
-# GestorCarreras
+# Gestor de Carreras
 
 Ejercicio resuelto. Problema planteado el 25.09.2017 
 
-Enunciado:
-=========
+# Enunciado:
 
 Desarrollar una solución de software que permita la gestión de carreras.
 Una carrera está compuesta por 4 cursos.
@@ -19,8 +18,8 @@ Carreras:
   - Tiene Como atributo un vector de 4 cursos.
   - Los alumnos pueden borrarse o inscribirse a los cursos siempre y cuando la carrera no esté finalizada
 
-Conceptos Nuevos:
-========= ======
+# Conceptos Nuevos:
+
   - Se incluyen comentarios en el código. Para comentar una línea, anteponer una doble barra // y el compilador 
     ignorará esta línea.
     
