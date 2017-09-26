@@ -26,3 +26,10 @@ Carreras:
   - Utilización del método valueOf de la clase String para convertir un entero a String
   
   - utilización de this para desambiguar el nombre de un atributo respecto al nombre de un parámetro
+
+# Implementación:
+  - Se desarrollaron las clases:
+    - Curso (Curso.java)
+    - Carrera (Carrera.java)
+    - GestorCarrera (GestorCarrera.java)
+    - Programa (Programa.java) para el punto de entrada main.
